@@ -1,9 +1,8 @@
 # <p align="center"> Técnicas de Programação e Algoritmo </p>
-## <p align="center"> Nste projeto está tudo o que já aprendi nas aulas de TPA </p>
-  
+## <p align="center"> Neste projeto está tudo o que já aprendi nas aulas de TPA </p>
   ### Introdução à lógica de programação:
 
-<img width="798" alt="Captura de tela 2024-10-09 074309" src="https://github.com/user-attachments/assets/c9c64862-62d3-4120-b088-7e34bdd800d9">
+<img width="799" alt="Captura de tela 2024-10-09 074309" src="https://github.com/user-attachments/assets/c9c64862-62d3-4120-b088-7e34bdd800d9">
   
   A lógica está presente em nossa vida sempre que
 pensamos, falamos e escrevemos;
@@ -66,4 +65,25 @@ preocupa com detalhes de
 implementação de programa;
 
 <img width="799" alt="Captura de tela 2024-10-09 075828" src="https://github.com/user-attachments/assets/fddb489e-224e-4df4-807c-bda90fae053f">
+
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/97ff7761-51a8-4e88-a70e-5f0d0cbc36ac">
+
+### Algoritmo(Pseudocódigo) 
+
+• Esta forma de representação de algoritmo é **rica em detalhes**,
+
+como a definição dos tipos das variáveis usadas no algoritmo.
+
+Por assemelhar-se bastante à forma em que os programas são
+
+escritos;
+
+• É uma **forma genérica de escrever um algoritmo**, utilizando
+
+uma **linguagem simples** (nativa a quem o escreve, de forma a
+
+ser entendida por qualquer pessoa) sem necessidade de
+
+conhecer a sintaxe de nenhuma linguagem de programação
+
 
