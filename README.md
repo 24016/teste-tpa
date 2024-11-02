@@ -86,4 +86,52 @@ ser entendida por qualquer pessoa) sem necessidade de
 
 conhecer a sintaxe de nenhuma linguagem de programação
 
+![image](https://github.com/user-attachments/assets/6348336e-dd1d-472d-bbe9-5f2c2fdbe48d)
+<br>
+## <p align="center">Tipos de Dados<p>
+### INTEIRO:
+qualquer número inteiro, negativo, nulo ou positivo
+<br>
+Ex.: -15, 0, 101
+
+### REAL:
+qualquer número real, negativo, nulo ou positivo
+<br>
+Ex.: -1, -0.5, 0, 5, 9.5
+
+### CARACTER:
+qualquer conjunto de caracteres alfanuméricos
+<br>
+Ex.: “AB”, “ 123”, “ A123”, “CASA”
+
+### LÓGICO:
+conjunto de valores ( FALSO ou VERDADEIRO )
+
+
+ ## <p align="center">Tipos de Dados – (Portugol Webstudio)<p>
+
+• Tipo Cadeia:
+Armazenar em uma variável, um texto ou uma quantidade
+grande de caracteres.
+
+• Tipo Caracter:
+Uso de símbolos, letras ou outro tipo de conteúdo.
+
+• Tipo Inteiro:
+Utilização de valores inteiros em um algoritmo
+
+• Tipo Lógico:
+Trabalhar com informações do tipo verdadeiro e falso
+
+• Tipo Real :
+Armazenar valores que não pertencem aos números inteiros.
+
+ ## <p align="center">Operadores<p>
+ <br>
+
+• Os operadores são meios pelo qual incrementamos, decrementamos,
+
+comparamos e avaliamos dados dentro do computador. Temos quatro
+
+tipos de operadores:
 
